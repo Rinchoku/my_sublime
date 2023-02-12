@@ -12,6 +12,7 @@ sublime textの設定に関するドキュメント
 * Japanize
 * Git
 * SublimeLinter
+* (Glue)[https://gluedocs.readthedocs.io/en/latest/]
 
 ## Html
 * HTMLBeautify
