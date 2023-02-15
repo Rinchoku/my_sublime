@@ -13,9 +13,11 @@ sublime textの設定に関するドキュメント
 * Git
 * SublimeLinter
 * (Glue)[https://gluedocs.readthedocs.io/en/latest/]
+* (SublimeCodeIntel)[https://www.sublimecodeintel.com]
 
 ## Html
 * HTMLBeautify
+* (ColorHighlight)[https://github.com/Kronuz/ColorHighlight]
 
 ## PHP
 * __PhpDoc
